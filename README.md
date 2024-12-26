@@ -27,10 +27,6 @@ A bakery owner wants to understand how spending on social media advertising infl
 
 ---
 
-## Visualization:
-The scatter plot with a regression line indicates a strong positive trend between advertising spending and revenue.
-
----
 
 ## Recommendations:
 1. The bakery owner should consider increasing advertising spending to boost revenue.
